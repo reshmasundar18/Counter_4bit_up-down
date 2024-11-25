@@ -201,7 +201,8 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 •	Simulation allow to dump design and test bench signals into a waveform 
 
 •	Steps for simulation – Run the simulation command with simulator options
-![Screenshot 2024-11-24 165728](https://github.com/user-attachments/assets/9cf56973-c024-435a-83a0-6c3b5ace4422)
+![WhatsApp Image 2024-11-25 at 15 40 38_dc1f9694](https://github.com/user-attachments/assets/ed1f069a-e231-4601-8495-26ee61294396)
+
 
 ## Fig 9: Design Browser window for simulation
 ![WhatsApp Image 2024-11-24 at 17 07 42_602e022e](https://github.com/user-attachments/assets/7f5be885-2d70-4c27-8dec-07da7d71abfa)
